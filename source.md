@@ -1,59 +1,68 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 王艺洲 (1700011804@pku.edu.cn)
 
-主页: https://github.com/author
+主页: https://github.com/alchemist-wyz
 
 ---
 
-## 本讲内容
+## A brief introduction of me
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 我的基本信息
+#### &nbsp; &nbsp; 1.2 我的家庭
 
 ### 2. 第二部分
 
+#### &nbsp; &nbsp; 2.1 我的经历
+#### &nbsp; &nbsp; 2.2 我的抱负
+
 ### 3. 第三部分
 
----
+#### &nbsp; &nbsp; 3.1 我的兴趣
+#### &nbsp; &nbsp; 3.2 我的特长
 
 ## 第一部分
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+1.1
+性别：男
+生日：1999.05.18
+血型：A
+籍贯：河北
+名族：汉
+政治面貌：共青团
+住址：北京大学45乙
+WeChat：wyz_990518
+1.2
+父亲：军人 博士 严厉
+母亲：职员 本科 严厉
 
 ---
 
 ## 插图
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+**王艺洲**
+/Users/wangyizhou/Desktop/timg.jpeg
+<img src="/Users/wangyizhou/Desktop/timg.jpeg" width=300 style="margin: 0px 80px">
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 第二部分
 
+1.北京市培星小学  上地实验学校  十一学校  Peking University
+2.成为一名有影响力的化学家
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+---
 
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+## 第三部分
+1.兴趣：电影  小说   音乐   科学创新
+2.特长：吉他  乐高   吃 睡
 
 ---
 
